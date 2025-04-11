@@ -1,5 +1,8 @@
 # Case - Dados Fera
 
+## Apresentação em Vídeo:
+- Link do vídeo: [Assista no YouTube](https://youtu.be/U9raIkQ2FS4)
+
 Este repositório contém a resolução do case proposto, dividido em duas principais áreas de análise:
 
 - **Funcionários** (dados de colaboradores)
