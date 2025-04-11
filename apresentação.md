@@ -10,7 +10,7 @@ Conclusão do Projeto: 11/04 (Sexta-feira - 5 dias de trabalho)
 ---
 
 ## Apresentação em Vídeo:
-- Link do vídeo: [Assista no YouTube](https://youtube.com/seu-link-aqui)
+- Link do vídeo: [Assista no YouTube](https://youtu.be/U9raIkQ2FS4)
 
 ---
 
